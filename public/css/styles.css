@@ -1,10 +1,10 @@
 body{
     background-image:url("/images/weather.jpg");
-    background-size:cover;
+    /* background-size:cover; */
     font-family: Arial;
     /* padding: 0 16px; */
     margin: 0 auto;
-    
+    background-size: 100% 200%;
     /* max-width: 650px; */
    }
 
