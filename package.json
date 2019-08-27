@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/Maithili123/Weather/issues"
   },
-  "homepage": "https://github.com/Maithili123/Weather#readme"
+  "homepage": "https://github.com/Maithili123/Weather#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "handlebars": "^4.1.2",
+    "hbs": "^4.0.4",
+    "path": "^0.12.7",
+    "request": "^2.88.0"
+  }
 }
