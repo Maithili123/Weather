@@ -4,6 +4,7 @@ body{
     font-family: Arial;
     /* padding: 0 16px; */
     margin: 0 auto;
+    
     /* max-width: 650px; */
    }
 
@@ -74,4 +75,9 @@ img{
     text-align: center;
     
     
+}
+
+#msg2{
+    color: white;
+    font: bold;
 }
